@@ -1,4 +1,4 @@
-# MMAUG Prompt Craft Foundations — Beginner Labs
+# MMAUG Prompt Craft Foundations - Beginner Labs
 
 **Prompt Engineering · Context Engineering · AI Evaluation**  
 A beginner-friendly, lab-based workshop using fictional training documents. No coding required for the core activities.
@@ -23,7 +23,6 @@ By the end, learners can:
 | [`labs/03-capstone/`](labs/03-capstone/) | Build and evaluate a mini assistant, solo or in pairs |
 | [`EVALUATION.md`](EVALUATION.md) | Rubric, critical hallucination rule, score calculation |
 | [`templates/`](templates/) | Copyable prompt and CSV templates |
-| [`facilitator/ANSWER_KEY.md`](facilitator/ANSWER_KEY.md) | Public answer key (spoilers) |
 | [`CLEANUP.md`](CLEANUP.md) | Cost controls and cleanup |
 
 ## Quick start
