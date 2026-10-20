@@ -1,0 +1,11 @@
+# Never commit credentials or private participant data
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+private/
+participant-results/
+.DS_Store
+__pycache__/

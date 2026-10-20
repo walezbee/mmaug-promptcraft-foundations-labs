@@ -1,0 +1,1 @@
+Does Nimbus Notes integrate with Microsoft Teams, Slack, and Google Drive? Please explain how to configure these integrations.
